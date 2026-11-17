@@ -47,7 +47,7 @@ Using stock turnover ratio (units sold / stock held), Camera is the fastest (0.6
 ## Repository contents
 ```
 ├── README.md
-├── data/        dataset or a link and column list
+├── data /        dataset in excel or a link and column list
 ├── excel/       analysis workbook (.xlsx)
 ├── dashboard/   Power BI file (.pbix)
 ├── images/      dashboard screenshots
