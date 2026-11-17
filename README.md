@@ -42,7 +42,7 @@ Using stock turnover ratio (units sold / stock held), Camera is the fastest (0.6
 - Track overstock, understock and delay rate regularly as dashboard KPIs.
 
 ## Cleaning and analysis (Excel)
-[Add 3 to 5 bullets in your own words: duplicates removed, missing values handled, columns you created such as stock status, delay flag and turnover ratio.]
+Import the dataset, inspect and identify all NULL or missing values, clean the data by removing duplicates and correcting inconsistent formats and data types, create pivot tables for category-wise, product-wise and region-wise analysis, calculate total sales, costs, profit and loss, identify profitable and loss-making products, and prepare a final dashboard with charts, KPIs and meaningful business insights.
 
 ## Repository contents
 ```
